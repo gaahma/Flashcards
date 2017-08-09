@@ -24,6 +24,11 @@
       "deletion": "Bill Murray",
       "full": "Bill Murray was the star of Groundhog Day",
       "partial": "______ ______ was the star of Groundhog Day"
+    },
+    {
+      "deletion": "2007",
+      "full": "The first iPhone was released in 2007",
+      "partial": "The first iPhone was released in ______"
     }
   ]
 }

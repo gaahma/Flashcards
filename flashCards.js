@@ -107,7 +107,6 @@ function addCard(){
       }
     ]).then(function(newCard){
       flashcards.push(new Card(newCard.question, newCard.answer));
-      console.log(flashcards);
       writeToFile(file);
     })
 
