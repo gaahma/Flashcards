@@ -1,0 +1,29 @@
+{
+  "cards": [
+    {
+      "deletion": "George Washington",
+      "full": "George Washington was the 1st President of the USA",
+      "partial": "______ ______ was the 1st President of the USA"
+    },
+    {
+      "deletion": "John Adams",
+      "full": "John Adams was the 2nd President of the USA",
+      "partial": "______ ______ was the 2nd President of the USA"
+    },
+    {
+      "deletion": "Cairo",
+      "full": "The Great Pyramid of Giza is located in Cairo Egypt",
+      "partial": "The Great Pyramid of Giza is located in ______ Egypt"
+    },
+    {
+      "deletion": "Paul Allen",
+      "full": "In 1975, Bill Gates and Paul Allen lauched Microsoft",
+      "partial": "In 1975, Bill Gates and ______ ______ lauched Microsoft"
+    },
+    {
+      "deletion": "Bill Murray",
+      "full": "Bill Murray was the star of Groundhog Day",
+      "partial": "______ ______ was the star of Groundhog Day"
+    }
+  ]
+}

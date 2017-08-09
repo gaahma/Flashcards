@@ -1,0 +1,24 @@
+{
+  "cards": [
+    {
+      "back": "George Washington",
+      "front": "Who was the 1st President of the USA?"
+    },
+    {
+      "back": "John Adams",
+      "front": "Who was the 2nd President of the USA?"
+    },
+    {
+      "back": "Cairo",
+      "front": "The Great Pyramid of Giza is located in what Egyptian city?"
+    },
+    {
+      "back": "Paul Allen",
+      "front": "Who co-founded Microsoft with Bill Gates in 1975?"
+    },
+    {
+      "front": "Who was the star actor in Groundhog Day?",
+      "back": "Bill Murray"
+    }
+  ]
+}
